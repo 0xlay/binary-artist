@@ -1,6 +1,10 @@
 # Binary artist
 #### The Binary artist is a simple tool to convert an image file to an ascii image.
 
+# Build
+* Install the rust lang (https://www.rust-lang.org/)
+* Compile via ```cargo build```
+
 # Usage
 
 ### Command
