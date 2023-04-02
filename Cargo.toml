@@ -1,0 +1,10 @@
+[package]
+name = "binary-artist"
+version = "0.1.0"
+edition = "2021"
+authors = ["0xlay <0xlay.Lab@gmail.com>"]
+
+
+[dependencies]
+ascii = "1.1.0"
+image = "0.24.6"
